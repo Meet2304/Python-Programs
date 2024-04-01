@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Java_Programs"
+		},
+		{
+			"path": "../C_Programs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Test.C": "cpp"
+		}
+	}
+}
